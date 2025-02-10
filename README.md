@@ -1,24 +1,25 @@
-# Python 101
+# Python 101 🚀🐍📚
 
-Bu repo, Python 101 dersi kapsamında işlenen konuları içermektedir. Ders kapsamında Python'un temelleri, NumPy ve pandas kütüphaneleri ele alınmıştır.
+Bu repo, Python 101 dersi kapsamında işlenen konuları içermektedir. Ders kapsamında Python'un temelleri, NumPy ve pandas kütüphaneleri ele alınmıştır. 🎯💡🔍
 
-## İçerik
+## İçerik 📋✨📝
 
-### 1. Python Temelleri
+### 1. Python Temelleri 🐍🛠️📘
 - Değişkenler ve Veri Tipleri
 
-### 2. NumPy
+
+### 2. NumPy 🔢📊📈
 - NumPy Dizileri (ndarray)
 - Matris İşlemleri
 - Fonksiyonlar ve İleri Seviye İşlemler
 
-### 3. pandas
+### 3. pandas 🏆📉🔍
 - Veri Çerçeveleri (DataFrames)
 - Veri Okuma ve Yazma
 - Veri Temizleme ve Dönüştürme
 - Gruplama ve Toplulaştırma
 
-## Kurulum
+## Kurulum 🛠️⚙️💻
 Projeyi kullanabilmek için aşağıdaki adımları takip edebilirsiniz:
 
 1. Depoyu klonlayın:
@@ -31,16 +32,16 @@ Projeyi kullanabilmek için aşağıdaki adımları takip edebilirsiniz:
    pip install -r requirements.txt
    ```
 
-## Kullanım
+## Kullanım 🚀📖💡
 Dersi takip etmek için `notebooks/` klasöründeki Jupyter Notebook dosyalarını kullanabilirsiniz. Jupyter Notebook'u çalıştırmak için:
 
 ```bash
 jupyter notebook
 ```
 
-## Katkıda Bulunma
+## Katkıda Bulunma 🤝📌✅
 Eğer katkıda bulunmak isterseniz, lütfen bir **pull request** oluşturun veya bir **issue** açın.
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## Lisans 📜⚖️✅
+Bu proje MIT Lisansı ile lisanslanmıştır. 🎓📄🔓
 
